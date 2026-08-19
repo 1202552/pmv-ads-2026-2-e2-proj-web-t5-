@@ -52,6 +52,8 @@ O desenvolvimento desta aplicação justifica-se pela necessidade de mudar a for
 Diferente dos sistemas tradicionais (156, BH SIM), em que o cidadão apenas espera a prefeitura agir, o novo sistema atua em duas frentes: 
 *	Agilidade e Transparência na Frente Pública: Usando a colaboração de todos (crowdsourcing), o aplicativo mostra a situação real dos bairros. A própria comunidade ajuda a fiscalizar, evitando que chamados antigos continuem abertos e mostrando o que realmente precisa de prioridade do governo. 
 *	Independência e Transformação Imediata na Frente Privada: O morador não precisa esperar a prefeitura para tudo. Ações ambientais diretas — como a reciclagem de óleo de cozinha e a destinação de lixo — são resolvidas no próprio bairro, em parceria com os comércios locais. 
+
+
 A plataforma se diferencia por unir essas duas soluções em um só lugar:
 *	Frente de Zeladoria e Fiscalização Pública: Mapeia ocorrências de infraestrutura (como buracos e iluminação) e indica onde o morador pode registrar a reclamação e deixa a própria comunidade atualizar o status. 
 *	Frente de Ação Social e Parcerias Privadas: Conecta moradores diretamente a estabelecimentos comerciais locais que atuam como pontos de coleta seletiva e descarte sustentável.
