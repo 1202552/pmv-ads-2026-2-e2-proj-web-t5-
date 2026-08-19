@@ -14,7 +14,7 @@ Diante desse panorama, evidencia-se a necessidade de ferramentas tecnológicas m
 
 A gestão das cidades e o saneamento básico no Brasil enfrentam gargalos que afetam o meio ambiente e o dia a dia das pessoas. O problema se divide em dois pontos principais:
 
-1. Descarte inadequado de lixo gera consequências nas infraestruturas:
+* Descarte inadequado de lixo gera consequências nas infraestruturas:
 
 O descarte incorreto de lixo e de óleo de cozinha gera um prejuízo enorme. O lixo acumulado e o óleo no esgoto entopem os canos e os bueiros. Quando chove, a água fica acumulada na rua e entra no asfalto, enfraquecendo a base da pista e criando buracos crônicos, afetando a rotina perto de 80% dos lares urbanos.
 *	Canais do governo são lentos e burocráticos:
@@ -30,12 +30,14 @@ Sem retorno em tempo real: As pessoas registram o problema, mas não recebem atu
 
 ## Objetivos
 
-Objetivo Geral 
-Desenvolver uma aplicação interativa dedicada ao direcionamento eficiente de demandas de públicas  e à promoção de ações comunitárias sustentáveis. 
+Objetivo Geral:
+
+* Desenvolver uma aplicação interativa dedicada ao direcionamento eficiente de demandas de públicas  e à promoção de ações comunitárias sustentáveis. 
 
 Como objetivos específicos se destacam:
 
-Objetivos Específicos 
+Objetivos Específicos :
+
 *	Mapear e Categorizar Ocorrências: Permitir que o morador registre e consulte problemas ou pontos de coleta com uma seleção simples de pesquisa;
 
 *	Encaminhar Demandas Públicas: Orientar e indicar os canais e órgãos oficiais competentes para solicitações que dependem exclusivamente do poder público;
