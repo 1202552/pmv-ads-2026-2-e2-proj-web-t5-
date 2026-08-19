@@ -15,11 +15,10 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1.	Selecionar o bairro e registrar ocorrências urbanas.<br>
-2.	Localizar pontos de coleta e descarte de resíduos.<br>
-3.	Confirma o status de resolução de problemas no bairro.<br>
-4.	...... .<br>
-5.	...<br>
+1.	Selecionar o Bairro e registrar ocorrências urbanas. 
+2.	Localizar pontos de coleta e descarte de resíduos. 
+3.	Confirmar o status de resolução de problemas no bairro. 
+4.	Resgatar cupons/pontos por ações sustentáveis. 
 </td>
 </tr>
 </tbody>
@@ -70,156 +69,332 @@ as causas ambientais da região.
 </table>
 
 
-## Histórias de Usuários(Personas)
+## Personas
 
-## Persona 1 - João, motorista de aplicativo
+<h3>Persona 1 — João, motorista de aplicativo</h3>
 
-**Nome:** João Carlos da Silva
-**Idade:** 42 anos
-**Profissão:** Motorista de aplicativo
-**Bairro:** Barreiro, Belo Horizonte
+<table>
+  <tr>
+    <th colspan="2">João Carlos da Silva — Motorista</th>
+  </tr>
 
-### Contexto
+  <tr>
+    <td><strong>Descrição</strong></td>
+    <td>
+      42 anos, motorista de aplicativo e morador do Barreiro, em Belo Horizonte.
+      Utiliza o carro diariamente para trabalhar e passa grande parte do dia
+      circulando pelas ruas da cidade. Por isso, está frequentemente em contato
+      com problemas de infraestrutura, como buracos e ruas danificadas.
+    </td>
+  </tr>
 
-João utiliza o carro diariamente para trabalhar e frequentemente encontra ruas com buraos e problemas de pavimentação. Em uma determinada rua próxima à sua residência, existe um buraco grande que já causou danos em veículos e dificulta a passagem de ônibus.
+  <tr>
+    <td><strong>Contexto de uso</strong></td>
+    <td>
+      Durante seus deslocamentos pelo bairro, João encontra frequentemente
+      problemas de pavimentação. Em uma rua próxima à sua residência existe
+      um grande buraco que já causou danos em veículos e dificulta a passagem
+      de ônibus. João utiliza o celular para registrar situações encontradas
+      durante seus trajetos e consultar problemas existentes na região.
+    </td>
+  </tr>
 
-### Problema
+  <tr>
+    <td><strong>Problema</strong></td>
+    <td>
+      João não sabe exatamente qual canal deve utilizar para comunicar problemas
+      de infraestrutura e, muitas vezes, acaba deixando de realizar a reclamação.
+      Além disso, não possui uma maneira simples de saber se outros moradores
+      já identificaram o mesmo problema ou se ele continua existindo.
+    </td>
+  </tr>
 
-João não sabe exatamente qual órgão público deve procurar para solicitar o reparo e acaba não realizando a reclamação.
+  <tr>
+    <td><strong>Necessidades de uso</strong></td>
+    <td>
+      Registrar o problema de forma rápida;<br>
+      Informar o bairro e a localização da ocorrência;<br>
+      Adicionar fotografias como evidência;<br>
+      Consultar problemas existentes em sua região;<br>
+      Confirmar se uma ocorrência continua ou foi solucionada.
+    </td>
+  </tr>
 
-### Necessidades de uso
+  <tr>
+    <td><strong>Como a aplicação ajuda</strong></td>
+    <td>
+      João consegue registrar o buraco de forma rápida, informando sua
+      localização e adicionando uma fotografia. A ocorrência fica disponível
+      para outros moradores da região, que podem consultar, confirmar ou
+      atualizar seu status, contribuindo para manter as informações do bairro
+      atualizadas.
+    </td>
+  </tr>
+</table>
 
-- Registrar o problema de forma rápida.
-- Informar a localização automaticamente.
-- Adicionar uma fotografia.
-- Saber qual órgão será responsável pela ocorrência.
-- Acompanhar se o problema foi solucionado.
+<h3>Persona 2 — Mariana, estudante</h3>
 
-### Como a aplicação ajuda
+<table>
+  <tr>
+    <th colspan="2">Mariana Oliveira Santos — Estudante</th>
+  </tr>
 
-João registra o buraco pelo aplicativo, informa a localização e adiciona uma foto. O sistema identifica que a ocorrência está relacionada à manutenção viária e encaminha para o órgão responsável.
+  <tr>
+    <td><strong>Descrição</strong></td>
+    <td>
+      21 anos, estudante universitária e moradora da Pampulha, em Belo Horizonte.
+      Utiliza o transporte público diariamente para ir à faculdade e está
+      frequentemente atenta às condições de segurança e infraestrutura dos
+      locais por onde passa.
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><strong>Contexto de uso</strong></td>
+    <td>
+      Durante seu trajeto até a faculdade, Mariana passa por um ponto de ônibus
+      que possui iluminação defeituosa e pouca visibilidade durante a noite.
+      Ela utiliza o celular diariamente e poderia acessar a plataforma para
+      registrar o problema, consultar outras ocorrências e verificar situações
+      existentes em seu bairro.
+    </td>
+  </tr>
 
+  <tr>
+    <td><strong>Problema</strong></td>
+    <td>
+      Mariana considera o local inseguro, mas não sabe exatamente como comunicar
+      o problema e encontra dificuldades para identificar o responsável pela
+      situação. Além disso, os diferentes canais existentes tornam o processo
+      burocrático e dificultam o acompanhamento da ocorrência.
+    </td>
+  </tr>
 
-## Persona 2 — Mariana, estudante
+  <tr>
+    <td><strong>Necessidades de uso</strong></td>
+    <td>
+      Registrar problemas de iluminação e infraestrutura;<br>
+      Enviar fotografias;<br>
+      Informar a localização da ocorrência;<br>
+      Consultar problemas do seu bairro;<br>
+      Filtrar ocorrências por categoria;<br>
+      Acompanhar e verificar a situação dos problemas registrados.
+    </td>
+  </tr>
 
-**Nome:** Mariana Oliveira Santos  
-**Idade:** 21 anos  
-**Profissão:** Estudante universitária  
-**Bairro:** Pampulha, Belo Horizonte  
-
-### Contexto
-
-Mariana utiliza ônibus diariamente para ir à faculdade. Em seu trajeto existe um ponto de ônibus com iluminação defeituosa e pouca visibilidade durante a noite.
-
-### Problema
-
-Mariana considera o local inseguro, mas não sabe se deve procurar a prefeitura, a empresa de transporte ou outro órgão.
-
-### Necessidades de uso
-
-- Registrar problemas de iluminação e infraestrutura.
-- Enviar fotos.
-- Informar a localização.
-- Receber orientação sobre o responsável.
-- Acompanhar o andamento da solicitação.
-
-### Como a aplicação ajuda
-
-Mariana registra a ocorrência e o sistema direciona o problema para o órgão responsável pela iluminação pública, permitindo que ela acompanhe a situação.
-
----
-
-## Persona 3 — Carlos, comerciante
-
-**Nome:** Carlos Eduardo Mendes  
-**Idade:** 51 anos  
-**Profissão:** Comerciante  
-**Bairro:** Centro, Belo Horizonte  
-
-### Contexto
-
-Carlos possui um pequeno comércio e percebe frequentemente uma grande quantidade de lixo acumulada em uma esquina próxima ao estabelecimento.
-
-### Problema
-
-O acúmulo de lixo causa mau cheiro, atrai animais e prejudica a aparência da região. Carlos já tentou descobrir onde fazer a reclamação, mas encontrou diferentes canais e não sabia qual utilizar.
-
-### Necessidades de uso
-
-- Registrar problemas de limpeza urbana.
-- Enviar fotos.
-- Informar a localização.
-- Saber para onde a solicitação foi encaminhada.
-- Receber atualizações sobre a ocorrência.
-
-### Como a aplicação ajuda
-
-Carlos registra a ocorrência e o sistema identifica a categoria de limpeza urbana, encaminhando-a ao órgão responsável.
-
----
-
-## Persona 4 — Lúcia, aposentada
-
-**Nome:** Lúcia Maria Ferreira  
-**Idade:** 67 anos  
-**Profissão:** Aposentada  
-**Bairro:** Venda Nova, Belo Horizonte  
-
-### Contexto
-
-Lúcia percebe que uma árvore localizada próxima à sua casa possui galhos muito grandes e aparentemente apresenta risco de queda. Ela gostaria de comunicar o problema à prefeitura.
-
-### Problema
-
-Lúcia possui pouca familiaridade com tecnologia e tem dificuldade para utilizar diferentes sites e sistemas públicos.
-
-### Necessidades de uso
-
-- Interface simples.
-- Processo de registro rápido.
-- Poucos campos obrigatórios.
-- Orientação clara durante o cadastro.
-- Acompanhamento simples da solicitação.
-
-### Como a aplicação ajuda
-
-Lúcia consegue registrar o problema utilizando uma interface simplificada, adicionando uma foto e localização. O sistema identifica a categoria e encaminha a ocorrência ao responsável.
-
----
-
-## Persona 5 — Rafael, usuário preocupado com o meio ambiente
-
-**Nome:** Rafael Almeida Costa  
-**Idade:** 29 anos  
-**Profissão:** Ativista Ambiental
-**Bairro:** Sagrada Familia, Belo Horizonte  
+  <tr>
+    <td><strong>Como a aplicação ajuda</strong></td>
+    <td>
+      Mariana consegue registrar a ocorrência de iluminação de forma simples,
+      adicionando uma fotografia e informando o local. Ela também pode filtrar
+      o feed por bairro e categoria para encontrar problemas semelhantes e
+      acompanhar as atualizações realizadas pela própria comunidade.
+    </td>
+  </tr>
+</table>
 
 
-### Contexto
+<h3>Persona 3 — Carlos, comerciante</h3>
 
-Rafael participa de ações e iniciativas voltadas à preservação do meio ambiente e costuma observar problemas ambientais durante suas atividades pelo município. Durante uma caminhada, percebe um descarte irregular de entulho em um terreno próximo a uma área residencial.
+<table>
+  <tr>
+    <th colspan="2">Carlos Eduardo Mendes — Comerciante do Bairro</th>
+  </tr>
 
-### Problema
+  <tr>
+    <td><strong>Descrição</strong></td>
+    <td>
+      51 anos, comerciante e morador do Centro de Belo Horizonte. Possui um
+      pequeno comércio e acompanha diariamente as condições das ruas e espaços
+      próximos ao seu estabelecimento. Preocupa-se com a limpeza e a conservação
+      da região, pois esses fatores também influenciam seus clientes e o comércio local.
+    </td>
+  </tr>
 
-Rafael quer denunciar o descarte irregular e contribuir para a preservação do meio ambiente, mas não sabe qual órgão público deve receber a denúncia nem como acompanhar a resolução do problema.
+  <tr>
+    <td><strong>Contexto de uso</strong></td>
+    <td>
+      Carlos percebe frequentemente uma grande quantidade de lixo acumulada em
+      uma esquina próxima ao seu estabelecimento. O problema ocorre com frequência
+      e afeta tanto a aparência da região quanto o ambiente ao redor do comércio.
+      Carlos pode utilizar a plataforma para registrar a situação e também consultar
+      pontos de coleta disponíveis no bairro.
+    </td>
+  </tr>
 
-### Necessidades de uso
+  <tr>
+    <td><strong>Problema</strong></td>
+    <td>
+      O acúmulo de lixo causa mau cheiro, atrai animais e prejudica a aparência
+      da região. Carlos já tentou descobrir onde realizar uma reclamação, mas
+      encontrou diferentes canais e não sabia qual utilizar. Além disso, não
+      possuía uma forma simples de verificar se o problema já havia sido
+      registrado por outra pessoa.
+    </td>
+  </tr>
 
-- Registrar descarte irregular de resíduos.
-- Adicionar fotografias e evidências do problema.
-- Informar a localização da ocorrência.
-- Saber qual órgão público recebeu a denúncia.
-- Acompanhar o andamento da ocorrência.
-- Verificar se o problema foi solucionado.
+  <tr>
+    <td><strong>Necessidades de uso</strong></td>
+    <td>
+      Registrar problemas de limpeza urbana;<br>
+      Enviar fotografias;<br>
+      Informar a localização;<br>
+      Consultar ocorrências existentes no bairro;<br>
+      Acompanhar atualizações sobre os problemas;<br>
+      Localizar pontos de coleta e descarte sustentável.
+    </td>
+  </tr>
 
-### Como a aplicação ajuda
+  <tr>
+    <td><strong>Como a aplicação ajuda</strong></td>
+    <td>
+      Carlos consegue registrar o acúmulo de lixo e compartilhar a ocorrência
+      com outros moradores. A comunidade pode consultar e atualizar a situação
+      do problema. Além disso, a plataforma permite que Carlos encontre pontos
+      de coleta e descarte sustentável próximos ao seu estabelecimento.
+    </td>
+  </tr>
+</table>
 
-Rafael registra a ocorrência, adiciona fotografias e informa a localização do descarte irregular. O sistema identifica a categoria do problema e encaminha a denúncia ao órgão responsável, permitindo que Rafael acompanhe o andamento e a resolução da ocorrência.
 
+<h3>Persona 4 — Lúcia, aposentada</h3>
 
----
+<table>
+  <tr>
+    <th colspan="2">Lúcia Maria Ferreira — Aposentada </th>
+  </tr>
+
+  <tr>
+    <td><strong>Descrição</strong></td>
+    <td>
+      67 anos, aposentada e moradora de Venda Nova, em Belo Horizonte.
+      Observa com frequência as condições das ruas e espaços próximos à sua
+      residência. Possui pouca familiaridade com tecnologia e prefere sistemas
+      simples, objetivos e fáceis de utilizar.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Contexto de uso</strong></td>
+    <td>
+      Lúcia percebe que uma árvore localizada próxima à sua casa possui galhos
+      muito grandes e aparentemente apresenta risco de queda. Ela gostaria de
+      comunicar o problema, mas encontra dificuldades para utilizar diferentes
+      sites e sistemas públicos. Por isso, busca uma plataforma simples que
+      permita registrar e acompanhar situações do seu bairro.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Problema</strong></td>
+    <td>
+      Lúcia possui pouca familiaridade com tecnologia e tem dificuldade para
+      localizar diferentes sites, serviços e canais de atendimento. Processos
+      com muitos campos ou etapas podem fazer com que ela desista de registrar
+      uma ocorrência.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Necessidades de uso</strong></td>
+    <td>
+      Interface simples e intuitiva;<br>
+      Processo de registro rápido;<br>
+      Poucos campos obrigatórios;<br>
+      Orientações claras durante o registro;<br>
+      Possibilidade de adicionar fotografia e localização;<br>
+      Acompanhamento simples das ocorrências.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Como a aplicação ajuda</strong></td>
+    <td>
+      Lúcia consegue registrar o problema utilizando uma interface simplificada,
+      adicionando uma fotografia e informando o bairro. Depois, pode consultar
+      a ocorrência e verificar as atualizações realizadas pela comunidade,
+      permitindo que acompanhe se o problema continua ou se foi considerado
+      solucionado.
+    </td>
+  </tr>
+</table>
+
+<h3>Persona 5 — Rafael, ativista ambiental</h3>
+
+<table>
+  <tr>
+    <th colspan="2">Rafael Almeida Costa — Ativista Ambiental</th>
+  </tr>
+
+  <tr>
+    <td><strong>Descrição</strong></td>
+    <td>
+      29 anos, ativista ambiental e morador da região da Sagrada Família,
+      em Belo Horizonte. Participa de ações e iniciativas voltadas à preservação
+      do meio ambiente e costuma observar problemas ambientais durante suas
+      atividades e deslocamentos pela cidade.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Contexto de uso</strong></td>
+    <td>
+      Durante uma caminhada, Rafael percebe um descarte irregular de entulho
+      em um terreno próximo a uma área residencial. Como costuma participar
+      de ações ambientais, utiliza o celular para registrar situações que
+      considera prejudiciais ao meio ambiente e à comunidade.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Problema</strong></td>
+    <td>
+      Rafael quer denunciar o descarte irregular e contribuir para a preservação
+      ambiental, mas encontra dificuldades para saber como comunicar a situação
+      e acompanhar o que acontece depois do registro. Também gostaria de saber
+      se outras pessoas já identificaram o mesmo problema.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Necessidades de uso</strong></td>
+    <td>
+      Registrar descarte irregular de resíduos;<br>
+      Adicionar fotografias e outras evidências do problema;<br>
+      Informar a localização da ocorrência;<br>
+      Consultar ocorrências ambientais do bairro;<br>
+      Acompanhar o andamento da ocorrência;<br>
+      Confirmar se o problema persiste ou foi solucionado.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Como a aplicação ajuda</strong></td>
+    <td>
+      Rafael consegue registrar o descarte irregular, adicionar fotografias
+      e informar sua localização. A ocorrência fica disponível para a comunidade,
+      permitindo que outros moradores confirmem ou atualizem sua situação.
+      Dessa forma, Rafael consegue acompanhar a ocorrência e contribuir para
+      que os problemas ambientais do bairro permaneçam atualizados na plataforma.
+    </td>
+  </tr>
+</table>
+
+## Histórias de Usuários
+
+| EU COMO... `QUEM` | QUERO/PRECISO... `O QUE` | PARA... `PORQUE` |
+|-------------------|--------------------------|------------------|
+| Cidadão | Realizar cadastro de perfil na plataforma para registrar um buraco encontrado no meu bairro, informando sua localização e adicionando uma fotografia. | Alertar outros moradores sobre o problema e contribuir para o mapeamento das ocorrências da região. |
+| Cidadão | Realizar login em minha conta e verificar se um buraco registrado no meu bairro continua existindo ou foi solucionado. | Manter as informações da plataforma atualizadas e ajudar outros moradores que circulam pela região. |
+| Cidadão | Registrar um problema de iluminação em um ponto de ônibus, adicionando uma fotografia e informando sua localização. | Alertar outros moradores sobre a situação que pode afetar a segurança do local. |
+| Cidadão | Filtrar ocorrências do meu bairro por categoria. | Visualizar outros problemas com iluminação e infraestrutura que podem afetar meu trajeto. |
+| Comerciante | Registrar o acúmulo de lixo próximo ao meu estabelecimento, adicionando uma fotografia e informando sua localização. | Alertar a comunidade sobre o problema e contribuir para a melhoria da região. |
+| Comerciante | Consultar os pontos de coleta e descarte sustentável disponíveis no meu bairro, ou me cadastrar como um ponto. | Realizar e incentivar o descarte correto de resíduos. |
+| Aposentada | Registrar uma ocorrência utilizando uma interface simples e com poucos campos obrigatórios e saber qual órgão entrar em contato. | Conseguir informar problemas do meu bairro mesmo tendo pouca familiaridade com tecnologia. |
+| Aposentada | Consultar o status de uma ocorrência registrada no meu ou em outro bairro. | Saber se o problema continua ou se outros moradores já confirmaram que foi solucionado. |
+| Ativista | Registrar um descarte irregular de resíduos, adicionando fotografias e informando sua localização. | Alertar a comunidade e contribuir para a preservação ambiental do bairro. |
+| Ativista | Atualizar o status de uma ocorrência de descarte irregular registrada no meu bairro. | Informar à comunidade se o problema continua ou se já foi solucionado. |
+ 
 
 
 
@@ -241,6 +416,9 @@ Rafael registra a ocorrência, adiciona fotografias e informa a localização do
 |RF-05| A aplicação deve sugerir o canal ou órgão público responsável com base na categoria escolhida.                    | ALTA  | 
 |RF-06| O sistema deve listar empresas parceiras cadastradas que funcionam como Pontos de Coleta/Descarte Seletivo.                  | MÉDIA  |
 |RF-07| A aplicação deve disponibilizar funcionalidade para edição ou exclusão de ocorrências registradas pelo próprio autor.                  | BAIXA  |
+
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
