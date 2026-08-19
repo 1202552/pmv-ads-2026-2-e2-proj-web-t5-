@@ -39,30 +39,7 @@ as causas ambientais da região.
 <td><b>Necessidades</b></td>
 <td>
 1.	Cadastrar-se como Ponto de Coleta/Descarte Sustentável. <br>
-2.	Oferecer cupons e promoções para moradores engajados.<br>
-3.	 Exibir o selo de responsabilidade socioambiental (ESG). .<br>
-</td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil 03: ... </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">                          . 
-</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>
-1.	Cadastrar-se como Ponto de Coleta/Descarte Sustentável. <br>
-2.	Oferecer cupons e promoções para moradores engajados.<br>
-3.	 Exibir o selo de responsabilidade socioambiental (ESG). .<br>
+2.	 Exibir o selo de responsabilidade socioambiental (ESG). .<br>
 </td>
 </tr>
 </tbody>
