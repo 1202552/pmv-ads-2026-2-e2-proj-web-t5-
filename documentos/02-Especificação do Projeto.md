@@ -384,7 +384,7 @@ as causas ambientais da região.
 
 | EU COMO... `QUEM` | QUERO/PRECISO... `O QUE` | PARA... `PORQUE` |
 |-------------------|--------------------------|------------------|
-| Cidadão | Realizar cadastro de perfil na plataforma para registrar um buraco encontrado no meu bairro, informando sua localização e adicionando uma fotografia. | Alertar outros moradores sobre o problema e contribuir para o mapeamento das ocorrências da região. |
+| Cidadão | Realizar cadastro na plataforma para registrar um buraco encontrado no meu bairro, informando sua localização e adicionando uma fotografia. | Alertar outros moradores sobre o problema e contribuir para o mapeamento das ocorrências da região. |
 | Cidadão | Realizar login em minha conta e verificar se um buraco registrado no meu bairro continua existindo ou foi solucionado. | Manter as informações da plataforma atualizadas e ajudar outros moradores que circulam pela região. |
 | Cidadão | Registrar um problema de iluminação em um ponto de ônibus, adicionando uma fotografia e informando sua localização. | Alertar outros moradores sobre a situação que pode afetar a segurança do local. |
 | Cidadão | Filtrar ocorrências do meu bairro por categoria. | Visualizar outros problemas com iluminação e infraestrutura que podem afetar meu trajeto. |
