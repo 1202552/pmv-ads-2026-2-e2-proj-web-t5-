@@ -439,3 +439,20 @@ as causas ambientais da região.
 |RNF-05|  A aplicação deve garantir segurança no armazenamento dos dados.                  | BAIXA   | 
 
 **Prioridade: Alta / Média / Baixa. 
+
+### Restrições de Gestão
+
+|ID      | Descrição               |
+|--------|-------------------------|
+|RG-01|  O projeto deverá ser desenvolvido e entregue dentro do prazo estabelecido pela disciplina.	               |  
+|RG-02|  O desenvolvimento deverá ser realizado pelos integrantes da equipe, sem terceirização da implementação.                  | 
+|RG-03|  O backend do sistema deve ser obrigatoriamente desenvolvido utilizando a linguagem C# (.NET), e o armazenamento dos dados deve ser gerenciado estritamente através do SQL Server.                  | 
+
+### Restrições de Negócios
+
+|ID      | Descrição               |
+|--------|-------------------------|
+|RN-01|  A plataforma é estritamente de impacto social; é proibido cobrar qualquer taxa para cadastro, uso, doação ou troca.             |  
+|RN-02|  O registro de ocorrências deve ser realizado pelos próprios usuários da plataforma, não sendo necessária a atuação de um gestor público dentro do sistema.                    | 
+|RN-03|  O usuário deve possuir cadastro e autenticação para realizar ações que envolvam o registro ou alteração de ocorrências.                 | 
+
