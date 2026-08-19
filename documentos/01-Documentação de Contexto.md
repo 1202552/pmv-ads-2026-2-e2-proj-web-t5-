@@ -36,8 +36,6 @@ Objetivo Geral:
 
 Como objetivos específicos se destacam:
 
-Objetivos Específicos :
-
 *	Mapear e Categorizar Ocorrências: Permitir que o morador registre e consulte problemas ou pontos de coleta com uma seleção simples de pesquisa;
 
 *	Encaminhar Demandas Públicas: Orientar e indicar os canais e órgãos oficiais competentes para solicitações que dependem exclusivamente do poder público;
