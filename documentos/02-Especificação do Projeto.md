@@ -410,10 +410,11 @@ as causas ambientais da região.
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 |RNF-01|  A aplicação deve ser compatível com o principal navegador do mercado: Google Chrome.	               | ALTA   | 
-|RNF-02|  A aplicação deve possuir interface simples e intuitiva para facilitar o uso pelos usuários.                   | ALTA  | 
+|RNF-02|  O sistema deve possuir uma interface simples e intuitiva, permitindo que um usuário registre ou consulte uma ocorrência sem necessidade de treinamento prévio.                   | ALTA  | 
 |RNF-03|  A aplicação deve permitir acesso simultâneo de múltiplos usuários.                  | MÉDIA   | 
 |RNF-04|  A aplicação deve estar disponível em formato híbrido (dispositivos móveis e web).                  | BAIXA   | 
-|RNF-05|  A aplicação deve garantir segurança no armazenamento dos dados.                  | BAIXA   | 
+|RNF-05|  A interface deve seguir boas práticas de acessibilidade, permitindo que pessoas com diferentes necessidades possam utilizar as principais funcionalidades da plataforma.                  | BAIXA   | 
+|RNF-06|  As informações de localização das ocorrências e pontos de coleta devem apresentar precisão adequada para permitir que o usuário identifique corretamente o local indicado.                | BAIXA   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
