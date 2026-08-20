@@ -18,7 +18,6 @@
 1.	Selecionar o Bairro e registrar ocorrências urbanas.  <br>
 2.	Localizar pontos de coleta e descarte de resíduos.  <br>
 3.	Confirmar o status de resolução de problemas no bairro.  <br>
-4.	Resgatar cupons/pontos por ações sustentáveis.  <br>
 </td>
 </tr>
 </tbody>
