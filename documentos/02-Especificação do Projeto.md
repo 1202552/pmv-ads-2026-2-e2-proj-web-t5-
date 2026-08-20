@@ -387,15 +387,15 @@ as causas ambientais da região.
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 |RF-01| A aplicação deve permitir o cadastro de usuários.   | ALTA |
-|RF-02| A aplicação deve permitir o login e autenticação de usuários (Cidadão e Empresa).                  | BAIXA  |
+|RF-02| A aplicação deve permitir o login e autenticação de usuários (Cidadão e Empresa).                  | ALTA  |
 |RF-03| A aplicação deve permitir o registro de ocorrências urbanas (frente pública) e ações ambientais (frente privada).                  | ALTA  |
-|RF-04| A aplicação deve permitir selecionar a localização da ocorrência por Bairro através de menu de seleção.                    | ALTA  | 
-|RF-05| A aplicação deve permitir o acompanhamento do status das ocorrências                   | ALTA  |
-|RF-06| A aplicação deve sugerir o canal ou órgão público responsável com base na categoria escolhida.                    | ALTA  | 
+|RF-04| A aplicação deve permitir o acompanhamento do status das ocorrências                   | ALTA  |
+|RF-05| A aplicação deve sugerir o canal ou órgão público responsável com base na categoria escolhida.                    | ALTA  | 
+|RF-06| A aplicação deve permitir selecionar a localização da ocorrência por Bairro através de menu de seleção.                    | ALTA  | 
 |RF-07| O sistema deve listar empresas parceiras cadastradas que funcionam como Pontos de Coleta/Descarte Seletivo.                  | MÉDIA  |
-|RF-08| A aplicação deve disponibilizar funcionalidade para edição ou exclusão de ocorrências registradas pelo próprio autor.                  | BAIXA  |
-|RF-09| A aplicação deve permitir verificar informações do cadastro na página perfil.                  | BAIXA  |
-|RF-10| A aplicação deve permitir usuários consultem seu histórico de ocorrências.                 | BAIXA  |
+|RF-08| A aplicação deve disponibilizar funcionalidade para edição ou exclusão de ocorrências registradas pelo próprio autor.                  | MÉDIA  |
+|RF-09| A aplicação deve permitir verificar informações do cadastro na página perfil.                  | MÉDIA  |
+|RF-10| A aplicação deve permitir usuários consultem seu histórico de ocorrências.                 | MÉDIA  |
 |RF-11| A aplicação deve permitir adicionar uma descrição á ocorrência.                | BAIXA  |
 |RF-12| A aplicação deve permitir pesquisar ocorrências.                 | BAIXA  |
 
